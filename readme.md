@@ -1,3 +1,3 @@
 # New Nepal Map
 
-![Nepal map](https://github.com/codexen/nepalgeojson/blob/master/image.png "Nepal map")
+![Nepal map](https://github.com/rthway/Geojson-Nepal/blob/master/image.png "Nepal map")
